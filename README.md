@@ -1,7 +1,3 @@
-- 👋 Hi, I’m the king of New York
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning SwiftUI and the basics of UIKit and Objective-C
-- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me:  On my e-mail: you better don't
 
 
